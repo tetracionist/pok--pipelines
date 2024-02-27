@@ -1,2 +1,2 @@
-# pok--pipelines
+# poke-pipelines
 Ingestion for Pokémon
